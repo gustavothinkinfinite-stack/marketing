@@ -3,5 +3,6 @@
 | Zona | Fecha | Empresa | Estado | Informe |
 |---|---|---|---|---|
 | Buenos Aires / La Plata / Abasto | 2026-10-19 | Kirken | Investigación parcial; no apto para envío | [Ficha](buenos-aires/la-plata/2026-10-19/kirken/informe.md) |
+| Buenos Aires / La Plata | 2026-10-19 | Garden Shop | Parcial; mudanza y correo pendientes de fuente propia; no apto para envío | [Ficha](buenos-aires/la-plata/2026-10-19/garden-shop/informe.md) |
 
 Una ficha por empresa. Revisar todas las provincias y dominios antes de incorporar cuentas. Campo productor y local comercial no son automáticamente dos sucursales. Solo información comercial pública; no registrar aquí correos privados, bajas o respuestas.
