@@ -7,7 +7,7 @@ Todas consultadas 2026-10-19. Fuente leída salvo indicación contraria.
 - https://www.viverokirken.com/contacto/ : teléfono 11-4971-1859 y formulario. Email protegido en extracción; no verificado literal.
 - https://viverokirken.mitiendanube.com/ : dominio alternativo con mismo teléfono. Fragmento indexado muestra info@viverokirken.com; la lectura devuelve email protegido. Pendiente, no correo verificado.
 - https://www.viverokirken.com/vivero/plantas/ : fragmento indexado muestra ruta2@viverokirken.com; falta corroboración literal. No inventado ni habilitado.
-- Google Maps: iframe enlazado desde Nosotros con identificación 0x95a2c5f985f23f11:0x67688c4b9f340fbd; consulta https://www.google.com/maps?cid=7451358403831992253 no realizada como ficha independiente; usar enlace embebido de web para localizar. Muestra reseñas 0/20 accesibles; cantidad, calificación y fechas sin datos. No inferir ausencia de reseñas.
+- Google Maps: iframe enlazado desde Nosotros con identificación 0x95a2c5f985f23f11:0x67688c4b9f340fbd; iframe de Google abierto pero sin contenido legible; usar enlace embebido de web para localizar. Muestra reseñas 0/20 accesibles; cantidad, calificación y fechas sin datos. No inferir ausencia de reseñas.
 - https://instagram.com/viverokirken : intento de apertura limitado por fetch throttled. Muestra publicaciones 0/12; seguidores sin datos.
 - https://www.facebook.com/vivero.kirken : apertura limitada por fetch throttled. Muestra 0/12; seguidores sin datos.
 - https://www.facebook.com/vivero.kirken/videos/-no-todas-las-plantas-son-igualesa-simple-vista-pueden-parecer-similares-pero-la/1584618839950422/ : fragmento de buscador señala 2026-08-04; no leído completo, no puntuado como actividad verificada.
