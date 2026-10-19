@@ -1,10 +1,10 @@
 # Protocolo de prospección de viveros — Semillería Durán
 
-Versión 1.0 · 19 de octubre de 2026
+Versión 1.1 · 19 de octubre de 2026
 
 ## Objetivo y activación
 
-Cuando Gustavo indique «Buscar viveros en [zona]», investigar comercios con atención al público, clasificarlos por popularidad observable y detectar oportunidades para vender sobres de semillas de Semillería Durán. Entregar un ranking de hasta diez viveros y una lista de contactos comerciales verificables. Esta instrucción prepara el trabajo; no inicia una búsqueda de viveros por sí sola.
+Cuando Gustavo indique «Buscar viveros en [zona]», investigar comercios con atención al público, clasificarlos por popularidad observable y detectar oportunidades para vender sobres de semillas de Semillería Durán. Priorizar empresas grandes con capacidad observable de comercializar y reponer sobres. Entregar rankings separados de popularidad y prioridad comercial, y una lista de contactos comerciales verificables. Esta instrucción prepara el trabajo; no inicia una búsqueda de viveros por sí sola.
 
 ## 1. Delimitar la búsqueda
 
@@ -13,7 +13,8 @@ Cuando Gustavo indique «Buscar viveros en [zona]», investigar comercios con at
 - Revisar primero los listados existentes en este repositorio para evitar repetir zonas o negocios.
 - Completar una zona por ejecución. No ampliar silenciosamente el territorio para llegar a diez.
 - Buscar inicialmente al menos veinte candidatos, cuando existan, mediante varias consultas y barrios; no confundir los primeros resultados o anuncios con los más populares.
-- Excluir comercios cerrados permanentemente, negocios ajenos al rubro y productores exclusivamente mayoristas sin venta al público, salvo pedido expreso. Registrar descartes relevantes.
+- Excluir comercios cerrados permanentemente y negocios ajenos al rubro. Separar los productores sin canal comercial compatible. Incluir distribuidores o mayoristas que abastezcan otros comercios como canal adicional, con ranking separado del minorista.
+- Buscar primero empresas y después sus sucursales: el objetivo principal es encontrar hasta diez cuentas comerciales distintas. Buscar expresamente centros de jardinería, viveros con sucursales, locales con insumos de huerta y distribuidores del rubro.
 
 ## 2. Fuentes y orden de consulta
 
@@ -37,6 +38,11 @@ Para cada candidato, conservar fecha de consulta y enlaces exactos que respalden
 - Web, Instagram y Facebook; seguidores visibles con fecha; revisar hasta doce publicaciones recientes por red y anotar tamaño y antigüedad de la muestra.
 - Evidencia de venta de semillas, productos de huerta y flores, accesorios o espacio comercial compatible.
 - Correo, fuente exacta, estado de verificación y notas comerciales.
+- Cantidad de sucursales comprobadas y listado de direcciones; distinguir sucursales locales del total de la empresa. Identificar casa central y compras centralizadas únicamente cuando haya evidencia.
+- Escala de instalaciones, sector de accesorios, canales de venta y distribución, con fuentes. No inferir superficie por fotos ni inventar metros cuadrados.
+- Si vende semillas actualmente, marcas observadas, productos de siembra, sustratos, bandejas, macetas y herramientas.
+- Responsable o área de compras y contacto profesional público si está disponible; no adivinar identidades.
+- Motivo concreto para ofrecer sobres y preguntas pendientes: reposición, compras centralizadas, incorporación de proveedores y espacio para exhibidor.
 
 Las reseñas, seguidores y comentarios son indicadores indirectos: no permiten afirmar cuántos clientes o visitantes recibe un vivero. Seguidores no equivalen a compradores. No sumar audiencias de distintas redes como si fueran personas únicas.
 
@@ -61,13 +67,23 @@ Aplicar la misma rúbrica a todos los candidatos de la zona. Es una herramienta 
 
 ## 5. Potencial comercial para sobres de semillas
 
-Evaluarlo por separado del ranking de popularidad:
-- Alto: venta de semillas o evidencia clara y actual de huerta/siembra con atención minorista.
-- Medio: vivero minorista con oferta relacionada, sin evidencia suficiente de venta de semillas.
-- Bajo: oferta poco relacionada o canal principalmente ajeno al consumidor final.
-- Indeterminado: no hay evidencia suficiente.
+El ranking principal de prospección se ordena por prioridad comercial a nivel empresa. Mantener aparte el ranking de popularidad. Aplicar esta rúbrica interna con evidencia y fecha:
 
-Cada valoración debe incluir una justificación breve con fuente. No suponer que aceptará proveedores, que tiene espacio para exhibidores o que comprará por ser popular.
+| Componente | Máximo | Puntos por evidencia |
+| --- | ---: | --- |
+| Compatibilidad con sobres | 35 | Venta actual de semillas = 20; oferta de huerta o siembra = 10; insumos complementarios (sustratos, bandejas, macetas o herramientas) = 5. |
+| Escala comercial comprobable | 30 | Sucursales: una = 0, dos = 5, tres o más = 10; instalaciones amplias con sector de accesorios explícitamente documentadas = 10; tienda en línea operativa = 5; canal mayorista o distribución a comercios comprobado = 5. |
+| Movimiento y actividad reciente | 25 | 25 × puntos observados de los tres componentes de Google del apartado 4 / 75. Conservar faltantes y cobertura proporcional, sin normalizar. |
+| Acceso a decisión de compra | 10 | Canal público explícito de compras/proveedores = 10; dueño o responsable identificado con contacto profesional público = 7; solo contacto general oficial = 3. Son alternativas: tomar la mayor, sin sumar. |
+
+- Cero significa evidencia de ausencia según la fuente revisada; lo desconocido queda «sin datos». Registrar puntos observados y cobertura disponible, con la misma regla de incertidumbre del ranking de popularidad.
+- La escala es un indicador de oportunidad, no una afirmación sobre facturación, volumen de compra o disposición a reponer.
+- Compatibilidad: alta (25–35 puntos observados), media (10–24), baja (0–9 con información suficiente), indeterminada si los faltantes impiden evaluarla. Conservar la explicación además del puntaje.
+- No descartar automáticamente un vivero grande de una sola sede. Documentar sus instalaciones y oferta; el número de sucursales es solo parte de la escala.
+- Desempatar por compatibilidad, luego escala y luego popularidad. Con cobertura insuficiente, declarar el orden provisional.
+- Para popularidad de empresas con varias sedes, usar como referencia la sede de la zona con más reseñas, identificándola; conservar las métricas de cada sucursal por separado. No sumar calificaciones, seguidores o reseñas como si fueran una única ficha.
+- Cada prioridad necesita un motivo comercial concreto respaldado por fuentes. Vender otra marca demuestra compatibilidad de categoría, pero no que aceptará un nuevo proveedor.
+- Confirmar mediante contacto posterior el volumen de compra, la frecuencia de reposición, las condiciones comerciales y quién decide. La investigación pública no puede certificar esos datos.
 
 ## 6. Verificar correos
 
@@ -82,13 +98,14 @@ Cada valoración debe incluir una justificación breve con fuente. No suponer qu
 
 ## 7. Selección final
 
-Entregar dos vistas:
-1. **Top 10 por popularidad observable**, con o sin correo, sujeto a la cobertura de fuentes y al universo investigado. Describirlo como «los diez mejor posicionados entre los candidatos evaluados», no como un censo exhaustivo.
-2. **Contactos comerciales con correo verificado**, hasta diez, manteniendo su posición en el ranking e indicando potencial comercial. Si se agregan candidatos fuera del top para completar contactos, marcarlos como adicionales y conservar su posición real.
+Entregar tres vistas a nivel empresa:
+1. **Top 10 por prioridad comercial**: listado principal de hasta diez cuentas distintas, con escala, compatibilidad, puntaje, cobertura y motivo. Destacar las tres primeras oportunidades.
+2. **Top 10 por popularidad observable**, con o sin correo y sede de referencia identificada. Describirlo como los mejor posicionados entre los candidatos evaluados, no un censo exhaustivo.
+3. **Contactos comerciales con correo verificado**, hasta diez, ordenados por prioridad comercial y conservando ambas posiciones. Marcar como adicionales los contactos fuera del top comercial. No alterar los rankings por disponibilidad de correo.
 
 Si hay menos de diez negocios o correos verificables, entregar lo conseguido y explicar el faltante. No rellenar con datos inventados, duplicados ni ubicaciones fuera de zona.
 
-Las sucursales pueden tener filas propias en el ranking si poseen ficha y dirección distintas. En contactos, deduplicar por empresa y correo; conservar las sucursales cubiertas y no sumar reseñas de sucursales como si pertenecieran a una sola ficha.
+Las sucursales se documentan como puntos de venta de una misma empresa, sin ocupar lugares independientes en el top de cuentas. En contactos, deduplicar por empresa y correo y conservar las sucursales cubiertas. Para una empresa presente en varias zonas, enlazar su investigación anterior y agregar evidencia local sin contarla como cliente nuevo. Mantener distribuidores en una sección separada.
 
 ## 8. Guardar en GitHub
 
@@ -102,7 +119,7 @@ Por investigación, crear o actualizar:
 Usar nombres de carpetas en minúscula, sin tildes y con guiones. El informe incluye alcance, consultas, fecha, candidatos evaluados, ranking, potencial comercial, descartes y limitaciones. Evidencias conserva datos y enlaces por candidato, incluida la muestra observada y el desglose del puntaje.
 
 Columnas mínimas de contactos.csv:
-posicion_popularidad,nombre_vivero,empresa,sucursal,ubicacion,localidad,partido,provincia,email,estado_email,fuente_email,google_maps,resenas_google,calificacion_google,instagram,facebook,web,puntaje_observado,cobertura_puntos,potencial_comercial,nota,fecha_verificacion
+posicion_comercial,puntaje_comercial,cobertura_comercial,cantidad_sucursales_verificadas,vende_semillas,marcas_observadas,canales_venta,responsable_compras,contacto_compras,motivo_comercial,posicion_popularidad,nombre_vivero,empresa,sucursal,ubicacion,localidad,partido,provincia,email,estado_email,fuente_email,google_maps,resenas_google,calificacion_google,instagram,facebook,web,puntaje_observado,cobertura_puntos,potencial_comercial,nota,fecha_verificacion
 
 CSV en UTF-8, con encabezados y campos entrecomillados cuando contengan comas, comillas o saltos. Los datos no observados se dejan vacíos y se explican en el informe.
 
@@ -123,7 +140,7 @@ La tarea autoriza investigar y guardar los resultados. Contactar a los viveros o
 
 ## Prompt reutilizable
 
-> Aplicá el protocolo protocolos/prospeccion-viveros.md del repositorio gustavothinkinfinite-stack/marketing. Buscá viveros en [ZONA] para ofrecer sobres de semillas de Semillería Durán. Si la zona es amplia, elegí una localidad todavía no trabajada y anunciá cuál. Investigá al menos veinte candidatos cuando existan; contrastá Google/Maps, webs oficiales, Instagram y Facebook. Clasificá hasta diez por popularidad observable usando la rúbrica y separá su potencial comercial. Buscá correos comerciales publicados y verificables sin inventarlos. Conservá en el ranking a los más populares aunque no tengan correo y entregá aparte hasta diez contactos verificados, indicando los adicionales. Registrá fuentes, fechas, cobertura y limitaciones. Guardá informe, CSV, evidencias e índice en GitHub, verificá la publicación y avisame con los enlaces. No envíes mensajes.
+> Aplicá el protocolo protocolos/prospeccion-viveros.md del repositorio gustavothinkinfinite-stack/marketing. Buscá viveros en [ZONA] para ofrecer sobres de semillas de Semillería Durán. Si la zona es amplia, elegí una localidad todavía no trabajada y anunciá cuál. Investigá al menos veinte candidatos cuando existan; contrastá Google/Maps, webs oficiales, Instagram y Facebook. Buscá empresas grandes y agrupá sus sucursales. Seleccioná hasta diez cuentas distintas por prioridad comercial: compatibilidad 35 %, escala 30 %, movimiento 25 % y acceso a compras 10 %. Conservá por separado el ranking de popularidad. Documentá sucursales, semillas y marcas, instalaciones, canales, contacto de compras y motivo comercial. Separá distribuidores del ranking minorista. Buscá correos comerciales publicados y verificables sin inventarlos. Conservá en ambos rankings a los mejor posicionados aunque no tengan correo y entregá aparte hasta diez contactos verificados, indicando los adicionales. Registrá fuentes, fechas, cobertura y limitaciones. Guardá informe, CSV, evidencias e índice en GitHub, verificá la publicación y avisame con los enlaces. No envíes mensajes.
 
 ## Mantenimiento
 
